@@ -16,11 +16,18 @@ input[type="text"]{
 
 #show{
 	margin: auto;
-	text-align: center;
+	width: 60%
 }
 
 .footer{
 	background-color: #4aa1f3;
 	width: 100%;
 	height: 80px;
+}
+
+#errorCity{
+	width: 50%;
+	font-size: 20px;
+	text-align: center;
+	margin: auto;
 }
